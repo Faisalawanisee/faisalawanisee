@@ -1,4 +1,4 @@
-### Hello and welcome to my GitHub profile!
+### Hello!
 
 I am a seasoned web developer with over 13 years of experience in the field. Over the course of my career, I have worked on a wide range of web development projects, from simple websites to complex web applications.
 
