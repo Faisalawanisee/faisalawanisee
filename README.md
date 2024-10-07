@@ -1,11 +1,1 @@
-### Hello!
-
-I am a seasoned web developer with over 14 years of experience in the field. Over the course of my career, I have worked on a wide range of web development projects, from simple websites to complex web applications.
-
-My skills and expertise include front-end development using HTML, CSS, JavaScript, and various JavaScript frameworks such as React, Angular, and Vue.js. I am also proficient in back-end development using PHP, Python, Node.js, and various databases such as MySQL, MongoDB, and PostgreSQL.
-
-In addition to my technical skills, I have a strong understanding of user experience (UX) design principles and have worked closely with designers to ensure that the applications I build are not only functional but also user-friendly and visually appealing.
-
-I have experience working with various project management tools such as Jira, Trello, and Asana, and I have collaborated with teams of developers, designers, and stakeholders to successfully deliver projects on time and within budget.
-
-If you are interested in learning more about my work or would like to discuss a potential project, please feel free to reach out to me. I am always eager to connect with other developers and discuss new ideas and opportunities. Thank you for visiting my profile!
+A seasoned software developer with 14+ years of experience across a wide range of projects, from simple applications to complex, large-scale solutions. Proficient in front-end and back-end development, working with technologies such as JavaScript, Python, PHP, Node.js, React, Angular, and more. Strong understanding of UX design principles, ensuring that applications are not only functional but user-friendly. Experienced in collaborating with cross-functional teams and using project management tools like Jira, Trello, and Asana to deliver projects on time and within scope. Always open to exploring new challenges and opportunities.
